@@ -39,8 +39,6 @@ Materials required to replicate the project:
 
 How to set up the breadboard project. 
 
-
-
 | Pin  | Name     | Description                                           |
 |------|----------|-------------------------------------------------------|
 | 1    | GND      | Ground. Connect to the ground reference of your circuit. |
@@ -55,7 +53,16 @@ How to set up the breadboard project.
 | 6    | THR      | Keep in line with right leg of TrimPot |
 | 7    | DISCH    | Keep in line with middle leg of TrimPot|
 | 8    | VCC      | Keep in line with left leg of TrimPot |
-| 8    | VCC      | Connec to 5V VCC |
+| 8    | VCC      | Connect to 5V VCC |
+
+
+| Pin  |Description                                           |
+|------|----------|-------------------------------------------------------|
+| Common| Connect to a second +5V power (not shown in picture|
+| Coil  | Connect to outer relay (shared with Pin 3 of 555 timer)|
+| NO    | Connect to LED|
+| NC    | Connect to LED|
+| LED Cathodes |Connect to resistors|
 
 ## BreadBoard pics
 ![Circuit](images/indecision.png)
