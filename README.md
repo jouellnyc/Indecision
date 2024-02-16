@@ -39,7 +39,7 @@ Materials required to replicate the project:
 
 How to set up the breadboard project. 
 
-| Pin  | Name     | Description                                           |
+| 555 Pin  | Name     | Description                                           |
 |------|----------|-------------------------------------------------------|
 | 1    | GND      | Ground. Connect to the ground reference of your circuit. |
 | 1    | GND      | Jumper this to the Relay's input/coil|
@@ -56,13 +56,17 @@ How to set up the breadboard project.
 | 8    | VCC      | Connect to 5V VCC |
 
 
-| Pin  |Description|
+| Relay Pin  |Description|
 |------|----------|
 | Common| Connect to a second +5V power (not shown in picture|
 | Coil  | Connect to outer relay (shared with Pin 3 of 555 timer)|
 | NO    | Connect to LED|
 | NC    | Connect to LED|
-| LED Cathodes |Connect to resistors|
+
+| LED | Description|
+|-----|------------|
+| Cathodes | Connect to resistors|
+| Anode   | Connect to GND|
 
 ## BreadBoard pics
 ![Circuit](images/indecision.png)
