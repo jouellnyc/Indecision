@@ -68,7 +68,9 @@ How to set up the breadboard project.
 | Cathodes | Connect to resistors|
 | Anode   | Connect to GND|
 
-## BreadBoard pics (see /images for pdf and .fzzs and others)
+## BreadBoard pics
+(See /images for pdf, fzz and others)
+
 ![Circuit](images/indecision.png)
 
 ## Movie
