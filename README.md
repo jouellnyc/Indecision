@@ -58,7 +58,7 @@ How to set up the breadboard project.
 ![Circuit](images/indecision.png)
 
 ## Movie
-![Movie](https://github.com/jouellnyc/indecision/raw/main/images/movie.mp4)
+[Movie](https://github.com/jouellnyc/indecision/raw/main/images/movie.mp4)
 
 ## Schematic
 ![Schematic](images/schematic.png)
