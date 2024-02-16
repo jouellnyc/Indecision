@@ -56,8 +56,8 @@ How to set up the breadboard project.
 | 8    | VCC      | Connect to 5V VCC |
 
 
-| Pin  |Description                                           |
-|------|----------|-------------------------------------------------------|
+| Pin  |Description|
+|------|----------|
 | Common| Connect to a second +5V power (not shown in picture|
 | Coil  | Connect to outer relay (shared with Pin 3 of 555 timer)|
 | NO    | Connect to LED|
