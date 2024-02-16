@@ -54,9 +54,13 @@ How to set up the breadboard project.
 | 8    | VCC      | Keep in line with left leg of TrimPot |
 | 8    | VCC      | Connec to 5V VCC |
 
-## Wiring diagrams, schematics, and pics
-
+## BreadBoard pics
 ![Circuit](images/indecision.png)
+
+## Movie
+![Movie](images/movie.mp4)
+
+## Schematic
 ![Schematic](images/schematic.png)
 
 
