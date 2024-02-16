@@ -60,7 +60,8 @@ How to set up the breadboard project.
 
 | Relay Pin  |Description|
 |------|----------|
-| Common| Connect across to +5V power (not shown in picture - check datasheet - typically 2 pins up from NC|
+| Common| Connect to +5V power (not shown - check datasheet - typically 2 pins up from NC|
+| Common| Optional - Connect to second +5V power for a more elaborate affect|
 | Coil  | Connect to outer rail (shared with Pin 3 of 555 timer)|
 | NO    | Connect to LED|
 | NC    | Connect to LED|
