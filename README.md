@@ -74,13 +74,11 @@ How to set up the breadboard project.
 ## BreadBoard pics
 (See /images for pdf, fzz and others)
 
-![Circuit](images/indecision.png)
+![Circuit](images/indecision.pn)
 
 ## Movie
 [Movie](https://github.com/jouellnyc/indecision/raw/main/images/movie.mp4)
 
 ## Schematic (Export from Fritzing for convenience)
 ![Schematic](images/schematic.png)
-
-
 
