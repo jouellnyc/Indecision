@@ -74,7 +74,7 @@ How to set up the breadboard project.
 ## BreadBoard pics
 (See /images for pdf, fzz and others)
 
-![Circuit](images/indecision.pn)
+![Circuit](images/indecision.png)
 
 ## Movie
 [Movie](https://github.com/jouellnyc/indecision/raw/main/images/movie.mp4)
