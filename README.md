@@ -60,7 +60,7 @@ How to set up the breadboard project.
 ## Movie
 [Movie](https://github.com/jouellnyc/indecision/raw/main/images/movie.mp4)
 
-## Schematic
+## Schematic (Export from Fritzing for convenience)
 ![Schematic](images/schematic.png)
 
 
