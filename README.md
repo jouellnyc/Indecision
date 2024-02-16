@@ -23,7 +23,7 @@ Key features of your breadboard project.
 
 ## Materials
 
-List the materials required to replicate the project. Include both electronic components and physical materials if necessary.
+Materials required to replicate the project:
 
 - 555 Timer
 - 5V Relay
@@ -31,6 +31,9 @@ List the materials required to replicate the project. Include both electronic co
 - 2 x yellow LEDs
 - Some jumper cables
 - 10 k TrimPot
+- 400 point breadboard
+
+(All available at jameco.com or other electronics online stores)
 
 ## Setup
 
