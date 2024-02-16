@@ -56,7 +56,7 @@ How to set up the breadboard project.
 
 ## Wiring diagrams, schematics, and pics
 
-![Circuit](indecision.png)
+![Circuit](images/indecision.png)
 
 
 
