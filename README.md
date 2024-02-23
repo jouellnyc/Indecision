@@ -18,7 +18,7 @@ Desk Art
 Key features of your breadboard project.
 
 - If you implement this circuit you will have a set of leds  tick/tock flashing back and forth.
-- The speed (and if they flash as all) is controllabled via the trimpot.
+- The speed (and if they flash at all) is controllabled via the trimpot and up to you.
 - Fun 
 - Hypnotic
 - Inspiration for decision making
